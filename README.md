@@ -1,4 +1,4 @@
-install whatever packages you need, this example uses [s.42l.fr/-OM27rKu](https://s.42l.fr/-OM27rKu)
+install whatever packages you need, this example uses [dub.sh/-OM27rKu](https://dub.sh/-OM27rKu)
 
 `npm i browserify`
 
